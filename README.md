@@ -1,2 +1,2 @@
 # gitExercise
-initial commit on github
+Hi, can you see this line?
