@@ -1,2 +1,3 @@
 # gitExercise
-Hi master branch, can you see this line?
+Hi master branch, can you see the line below?
+This is a initial commit
